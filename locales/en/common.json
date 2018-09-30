@@ -1,0 +1,10 @@
+{
+  "pixel": "pixel",
+  "pixel_plural": "pixels",
+  "purchaseButton": {
+    "connectAndPay": "Connect and Pay",
+    "confirm": "Confirm Purchase",
+    "confirmed": "Purchase Confirmed!",
+    "processing": "Processing..."
+  }
+}

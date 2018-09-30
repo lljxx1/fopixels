@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 't14';
+    src: url('heavyitalic-webfont.woff2') format('woff2'),
+      url('heavyitalic-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('bolditalic-webfont.woff2') format('woff2'),
+      url('bolditalic-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('bold-webfont.woff2') format('woff2'),
+      url('bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('italic-webfont.woff2') format('woff2'),
+      url('italic-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('heavy-webfont.woff2') format('woff2'),
+      url('heavy-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('extrabolditalic-webfont.woff2') format('woff2'),
+      url('extrabolditalic-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('extrabold-webfont.woff2') format('woff2'),
+      url('extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('semibold-webfont.woff2') format('woff2'),
+      url('semibold-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('semibolditalic-webfont.woff2') format('woff2'),
+      url('semibolditalic-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('lightitalic-webfont.woff2') format('woff2'),
+      url('lightitalic-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('light-webfont.woff2') format('woff2'),
+      url('light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('thinitalic-webfont.woff2') format('woff2'),
+      url('thinitalic-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('thin-webfont.woff2') format('woff2'),
+      url('thin-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 't14';
+    src: url('regular-webfont.woff2') format('woff2'),
+      url('regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+  }

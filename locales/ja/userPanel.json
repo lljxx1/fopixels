@@ -1,0 +1,9 @@
+{
+  "disconnect": "切断する",
+  "fetching": "フェッチ...",
+  "withdrawButton": {
+    "withdraw": "出                金",
+    "processing": "処理...",
+    "confirmed": "出金を確認しました!"
+  }
+}

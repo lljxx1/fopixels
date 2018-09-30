@@ -1,0 +1,26 @@
+{
+  "description": {
+    "totalValue": "Canvas is currently worth {{worth}} {{EOS_CORE_SYMBOL}}",
+    "pixelsDrawn": "Total pixels drawn out of 1,000,000",
+    "pixelsDrawnFilled": "The entire canvas of 1,000,000 has been filled",
+    "pot": "The Last Pixel Painter will receive 100% of this pot!",
+    "timeLeft": "The canvas will end if no more pixels are purchased",
+    "ended": "This canvas had ended",
+    "coordinate": "Current coordinate",
+    "lastPainter": {
+      "won": "This player has won the pot!",
+      "default": "This player is winning the pot!",
+      "nonactivated": "The last player to paint a pixel"
+    }
+  },
+  "totalValue": "Total value: <1><0>{{worth}}</0> <2>{{EOS_CORE_SYMBOL}}</2></1>",
+  "pixelsDrawn": "Pixels drawn: <1><0>{{pixelsDrawn}}</0></1>",
+  "timeLeft": "{{d}}{{h}}{{min}}{{s}} left",
+  "ended": "Ended",
+  "pot": "Pot: <1><0>{{pot}}</0></1>",
+  "lastPainter": {
+    "won": "Pot winner: <1><0><0>{{lastPainter}}</0></0></1>",
+    "default": "Last painter: <1><0><0>{{lastPainter}}</0></0></1>",
+    "nonactivated": "Last painter: <1><0><0>{{lastPainter}}</0></0></1>"
+  }
+}

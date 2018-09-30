@@ -1,0 +1,13 @@
+{
+  "tooMuchPixels": "警告！您已经画了很多像素！",
+  "imageSize": {
+    "widthExceeded": "您的图片的宽度（{{width}}px）已经大于画布的宽度（{{CANVAS_SIZE}}px）。请调整图片大小。",
+    "heightExceeded": "您的图片的高度（{{height}}px）已经大于画布的高度（{{CANVAS_SIZE}}px）。请调整图片大小。"
+  },
+  "revertedPixels": "由于网络不稳定，您之前画的一些像素丢失了（EOS 已经返还），您想要重新画那些像素吗？",
+  "accountMissing": "找不到账号，请尝试重新登录账号",
+  "insufficientBalance": "余额不足，本次交易需要 {{totalPrice}}，但是您只有 {{balance}}",
+  "beforeClear": "您确定要清除所有您正在画的像素吗？",
+  "multipleTransactions": "您的这次绘画已被分成 {{transactionCount}} 个交易，您需要一个接一个地确认交易才能完成本次绘画。",
+  "shortOfCpu": "您的账户的 CPU 配额已经使用了超过 80%，交易可能会失败，要继续发起交易吗？"
+}

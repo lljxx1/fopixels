@@ -1,0 +1,9 @@
+{
+  "cart": "Cart",
+  "empty": "No pixels drawn yet",
+  "removeAll": "Remove all",
+  "tableHead": {
+    "pixel": "Pixel",
+    "price": "Price"
+  }
+}

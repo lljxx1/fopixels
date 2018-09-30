@@ -1,0 +1,7 @@
+{
+  "launchPartners": "合作伙伴",
+  "dropzoneTip": {
+    "accept": "把图片放到这里",
+    "reject": "不支持的文件格式"
+  }
+}

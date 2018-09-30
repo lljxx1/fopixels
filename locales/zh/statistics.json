@@ -1,0 +1,24 @@
+{
+  "description": {
+    "totalValue": "当前画布价值 {{worth}} {{EOS_CORE_SYMBOL}}",
+    "pot": "给最后一个购买像素的玩家的奖励",
+    "timeLeft": "如果没有新的像素，画布绘制将会结束",
+    "ended": "当前画布已经结束",
+    "coordinate": "当前坐标",
+    "lastPainter": {
+      "won": "这个玩家赢得奖池了！",
+      "default": "这个玩家将要赢得奖池！",
+      "nonactivated": "最后一个购买像素的玩家"
+    }
+  },
+  "totalValue": "总价值: <1><0>{{worth}}</0> <2>{{EOS_CORE_SYMBOL}}</2></1>",
+  "pixelsDrawn": "已画像素: <1><0>{{pixelsDrawn}}</0></1>",
+  "timeLeft": "剩余 {{d}}{{h}}{{min}}{{s}}",
+  "ended": "已结束",
+  "pot": "奖池: <1><0>{{pot}}</0></1>",
+  "lastPainter": {
+    "won": "奖池赢家: <1><0><0>{{lastPainter}}</0></0></1>",
+    "default": "最后购买者: <1><0><0>{{lastPainter}}</0></0></1>",
+    "nonactivated": "最后购买者: <1><0><0>{{lastPainter}}</0></0></1>"
+  }
+}

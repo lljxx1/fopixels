@@ -1,0 +1,10 @@
+{
+  "pixel": "个像素",
+  "pixel_plural": "个像素",
+  "purchaseButton": {
+    "connectAndPay": "登录并购买",
+    "confirm": "确   认   购   买",
+    "confirmed": "购 买 成 功!",
+    "processing": "处理中..."
+  }
+}

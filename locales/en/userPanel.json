@@ -1,0 +1,20 @@
+{
+  "disconnect": "Disconnect",
+  "fetching": "Fetching...",
+  "deposit": "Account Balance",
+  "depositTootip": "Refunds, Earnings and Patron Bonus",
+  "withdrawButton": {
+    "withdraw": "Withdraw",
+    "processing": "Processing...",
+    "confirmed": "Withdraw Confirmed!",
+    "tips": {
+      "gameActivationThreshold": "Game Activation threshold: ({{thresholdProgress}} / {{WITHDRAW_PIXELS_THRESHOLD}})",
+      "depositTooSmall": "Balance too small for withdrawal",
+      "quotaExceeded": "Withdrawal quota exceeded! {{d}}{{h}}{{min}}{{s}} before another {{WITHDRAW_QUOTA}} is available to withdraw. Please be patient!"
+    }
+  },
+  "referralTitle": "Referral Bonus",
+  "pixelsDrawn": "{{pixelsDrawn}} pixels drawn",
+  "pixelsDrawnTooltip": "Total pixels you've drawn, including pixels sold",
+  "referral": "Earn even more <1><0>{{EOS_CORE_SYMBOL}}</0></1> by inviting your friends to buy pixels! Any purchases they make from this link will earn you a referral bonus:"
+}

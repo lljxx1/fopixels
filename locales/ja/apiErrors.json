@@ -1,0 +1,9 @@
+{
+  "unsatisfiedAuthorization": "{{accountName}}@{{permission}}対応するプライベートキーを使用していることを確認してください。",
+  "overdrawnBalance": "トランザクションが失敗しました、 十分な{{EOS_CORE_SYMBOL}}を持っていません。",
+  "ramUsageExceeded": "トランザクションが失敗しました、 十分なRAMを持っていません。",
+  "cpuUsageExceeded": "トランザクションが失敗しました、 十分なCPUを持っていません。",
+  "netUsageExceeded": "トランザクションが失敗しました、 十分なステークしたNETを持っていません。",
+  "deadlineExceeded": "トランザクションに時間がかかりすぎました。再試行してください。",
+  "unexpectedError": "トランザクションに失敗しました、予期外のエラー："
+}

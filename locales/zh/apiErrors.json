@@ -1,0 +1,11 @@
+{
+  "unsatisfiedAuthorization": "请确认您正在使用 {{accountName}} 的 {{permission}} 私钥",
+  "overdrawnBalance": "交易失败，您没有足够的 {{EOS_CORE_SYMBOL}} 去支付",
+  "ramUsageExceeded": "交易失败，您没有足够的可用内存",
+  "cpuUsageExceeded": "交易失败，您没有足够的可用 CPU",
+  "netUsageExceeded": "交易失败，您没有足够的可用 NET",
+  "deadlineExceeded": "交易超时，请重试",
+  "tooManyDidNotPaint": "您画的大部分像素都被人先买了，请重试",
+  "withdrawalQuotaExceeded": "今天的提款额度已经被用完！明天才能再取。",
+  "unexpectedError": "交易失败，发生了未知的错误："
+}

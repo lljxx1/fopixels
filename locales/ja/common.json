@@ -1,0 +1,10 @@
+{
+  "pixel": "ピクセル",
+  "pixel_plural": "ピクセルズ",
+  "purchaseButton": {
+    "connectAndPay": "接続と支払",
+    "confirm": "購入を確認します",
+    "confirmed": "購入確認済み！",
+    "processing": "処理中..."
+  }
+}

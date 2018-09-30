@@ -1,0 +1,36 @@
+{
+  "title": "PIXEL MASTER ON FIBOS",
+  "menu": {
+    "leaderboard": "Leaderboard",
+    "heatmap": "Heatmap",
+    "heatmapHint": "Toggle heatmap to see the hottest pixels",
+    "faq": "FAQ"
+  },
+  "faq": {
+    "title": "PIXEL MASTER FAQ",
+    "intro": "PIXEL MASTER is the world's first collaborative artwork based on blockchain. Use the toolbar to paint pixels. Confirm your pixels by purchasing with <1>{{EOS_CORE_SYMBOL}}</1> tokens. This requires <3>an FIBOS account</3> and <5>Ironman</5>.",
+    "questions": {
+      "howToEarn": "How do I earn tokens?",
+      "contractProceeds": "How are Contract Proceeds distributed?",
+      "bidding": "How does bidding work?",
+      "patronBonus": "How does the Patron Bonus work?",
+      "lastPixel": "How does the Last Pixel work?",
+      "referrals": "How do referrals work?",
+      "threshold": "How does the Game Activation threshold work?",
+      "credits": "Questions?"
+    },
+    "answers": {
+      "howToEarn": "PIXEL MASTER features multiple ways to make rewards: <1>Patron Bonus, Bidding, Last Pixel Pot, and Referrals</1>. Each pixel starts with a price tag of <3><0>{{DEFAULT_PRICE}}</0> <2>{{EOS_CORE_SYMBOL}}</2></3>. The payments from this Initial Pixel Offering go into Contract Proceeds.",
+      "contractProceeds": "<0>{{PATRON_BONUS_PERCENTAGE}}</0>% allocated to the Patron Bonus.<2></2><3>{{POT_PERCENTAGE}}</3>% allocated to Last Pixel Pot.<5></5><6>{{REFERRER_PERCENTAGE}}</6>% paid as referral reward (or to the Last Pixel Pot if there is no referrer).<8></8><9>{{DEV_TEAM_PERCENTAGE}}</9>% to developer team.<11></11><12>{{RAM_PAYMENT_PERCENTAGE}}</12>% RAM payments.",
+      "bidding": "You may purchase an already-owned pixel for <1><0>{{PRICE_MULTIPLIER}}</0>x</1> the previous price. The previous owner will earn back 100% of the tokens they paid for it. In addition, of the <3>{{PIXEL_PRICE_GROWTH_PERCENTAGE}}</3>% increase, <5><0>{{OWNER_PROFIT}}</0>%</5> goes directly to the previous owner as profit, and <7><0>{{FEE_PERCENTAGE}}</0>%</7> are fees that go to Contract Proceeds (see above).",
+      "patronBonus": "Each time a pixel is purchased, a portion of the transaction is distributed to the Account Balance of all previous pixel buyers. Each pixel you paint entitles you to a portion of this Patron Bonus. (Even if your pixel is painted over by another player, you still receive the bonus.) The more pixels you paint, the more bonus you will receive. Funds from your Account Balance will be available for withdrawal after the Game Activation threshold is met.",
+      "lastPixel": "After the Game Activation threshold is met, if there are no transactions for <1>24 hours</1>, the canvas ends. <3>The last user to purchase a pixel</3> will receive the entire Last Pixel Pot. Once the canvas is complete, it is immortalized into the blockchain.",
+      "referrals": "If you're logged in with Scatter and have painted at least one pixel, you'll be able to use your referral link. Any purchases made from this link will earn you a referral bonus that's automatically deposited into your account. Funds from your Account Balance will be available for withdrawal after the Game Activation threshold is met.",
+      "threshold": "There is a Game Activation threshold of <1><0>{{WITHDRAW_PIXELS_THRESHOLD}}</0> pixels</1>. Before <3>{{WITHDRAW_PIXELS_THRESHOLD}}</3> pixels are purchased, the Patron Bonus and referrals will still accrue in your account, but withdrawal is locked. After the threshold is met, all players will be able to withdraw funds from their account balance, and the Last Pixel Pot becomes activated.",
+      "credits": "View our account details: <4><0/></4><5></5>"
+    }
+  },
+  "drawer": "<0>PIXEL MASTER</0> is the world's first collaborative artwork on blockchain. Paint pixels and earn tokens! <2>Learn more →</2>",
+  "connectWithScatter": "Connect With Ironman",
+  "depositTip": "You have {{deposit}} withdrawable balance"
+}

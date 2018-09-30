@@ -1,0 +1,12 @@
+{
+  "tooMuchPixels": "警告！ あなたはあまりにも多くのピクセルを描います!",
+  "imageSize": {
+    "widthExceeded": "画像の幅({{width}}px)が画布({{CANVAS_SIZE}}px)の幅よりも大きいです。 画像のサイズを変更してください!",
+    "heightExceeded": "画像の高さ({{height}}px) が画布({{CANVAS_SIZE}}px)の高さよりも大きいです . 画像のサイズを変更してください!"
+  },
+  "revertedPixels": "あなたのピクセルのいくつかは、ネットワークが不安定で消去されました。それらを再び塗りたいですか？",
+  "accountMissing": "必要なアカウントがありません。scatterアカウントに再接続してください。",
+  "insufficientBalance": "あなたの絵は{{totalPrice}}を必要としましたが、あなたは {{balance}}持っています。",
+  "beforeClear": "塗装されたピクセルをクリアしてもよろしいですか？",
+  "multipleTransactions": "購入が{{transactionCount}}個の異なる注文に分割されていた場合、この絵を完成させるために1つずつ確認する必要があります。"
+}

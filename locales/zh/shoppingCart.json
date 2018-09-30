@@ -1,0 +1,9 @@
+{
+  "cart": "购物车",
+  "empty": "还没有画像素呢",
+  "removeAll": "清除全部",
+  "tableHead": {
+    "pixel": "像素",
+    "price": "价格"
+  }
+}

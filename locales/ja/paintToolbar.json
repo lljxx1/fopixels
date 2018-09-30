@@ -1,0 +1,45 @@
+{
+  "tools": {
+    "move": "移動",
+    "paint": {
+      "default": "ピクセルをペイントする",
+      "zoom": "ペイントにズームインする"
+    },
+    "eraser": "消しゴム",
+    "uploadImage": {
+      "default": "画像をアップロードする",
+      "placing": "画像を配置する"
+    },
+    "eyedropper": "スポイト",
+    "grid": "グリッド",
+    "zoomIn": "ズームイン",
+    "zoomOut": "ズームアウト",
+    "undo": "元に戻す",
+    "redo": "やり直し",
+    "clear": "ペイントされたピクセルをすべてクリアする"
+  },
+  "uploadImage": {
+    "guide": {
+      "default": "画像を画布にドラッグするか、下のボタンを使用します。",
+      "uploaded": "画像を配置したいとクリックして配置します。 (このポップアップを非表示にするには、IまたはEscを押します。)"
+    },
+    "noImage": "画像無し",
+    "actionButton": {
+      "upload": "ファイルをアップロード",
+      "replace": "ファイルを置き換える"
+    },
+    "dithering": {
+      "description": "画質を改善し、写真に役立つ",
+      "label": "ディザリングを適用致します"
+    },
+    "remove": "削除する"
+  },
+  "info": {
+    "unavailablePrompt": "申し訳ありませんが、お使いの端末で購入できません。",
+    "connecting": "接続する...",
+    "noScatter": "ピクセルを購入するには、<1>Ironman</1>で接続する必要があります。<3>(ガイド参照)</3>",
+    "price": "描きました <1><0>{{pixelCount}}</0> ピクセル</1> — 合計金額 <3><0>{{totalPrice}}</0></3>",
+    "price_plural": "描きました <1><0>{{pixelCount}}</0> ピクセルズ</1> — 合計金額 <3><0>{{totalPrice}}</0></3>",
+    "viewDetail": "(詳細を見る)"
+  }
+}

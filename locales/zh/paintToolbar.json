@@ -1,0 +1,46 @@
+{
+  "tools": {
+    "move": "拖动",
+    "paint": {
+      "default": "画像素",
+      "zoom": "缩放以画像素"
+    },
+    "eraser": "橡皮擦",
+    "uploadImage": {
+      "default": "上传图片",
+      "placing": "放置图片"
+    },
+    "eyedropper": "取色器",
+    "grid": "网格",
+    "zoomIn": "放大",
+    "zoomOut": "缩小",
+    "saveImage": "保存图片",
+    "undo": "撤销",
+    "redo": "重做",
+    "clear": "清除"
+  },
+  "uploadImage": {
+    "guide": {
+      "default": "将图片文件拖入画布或者使用下面的按钮",
+      "uploaded": "移动光标在画布放置您的图片，单击确认。(按 I 或者 Esc 关闭这个提示窗口)"
+    },
+    "noImage": "待上传",
+    "actionButton": {
+      "upload": "上传图片",
+      "replace": "替换图片"
+    },
+    "dithering": {
+      "description": "提高色彩质量，对照片有用",
+      "label": "颜色抖动"
+    },
+    "remove": "移除"
+  },
+  "info": {
+    "unavailablePrompt": "对不起，您的设备未支持购买像素。",
+    "connecting": "连接中...",
+    "noScatter": "您需要安装 <1>Ironman</1> 以购买像素. <3>(查看教程)</3>",
+    "price": "画了 <1><0>{{pixelCount}}</0> 个像素</1> — 总价 <3><0>{{totalPrice}}</0></3>",
+    "price_plural": "画了 <1><0>{{pixelCount}}</0> 个像素</1> — 总价 <3><0>{{totalPrice}}</0></3>",
+    "viewDetail": "(查看详情)"
+  }
+}

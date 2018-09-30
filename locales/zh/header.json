@@ -1,0 +1,36 @@
+{
+  "title": "PIXEL MASTER ON FIBOS",
+  "menu": {
+    "leaderboard": "排行榜",
+    "heatmap": "热度图",
+    "heatmapHint": "查看最热门的像素点",
+    "faq": "帮助"
+  },
+  "faq": {
+    "title": "PIXEL MASTER 常见问题解答",
+    "intro": "PIXEL MASTER 是世界首个基于区块链技术的协作艺术品。您可以使用工具栏去选择工具并进行绘画，然后使用 <1>{{EOS_CORE_SYMBOL}}</1> 去支付购买像素，前提是您需要有<3>一个 FIBOS 账号</3>和安装了 <5>Ironman</5> (在移动设备上您可以使用 <7>TokenPocket</7> )",
+    "questions": {
+      "howToEarn": "怎么赚 FO?",
+      "contractProceeds": "“游戏收益”是怎么计算的？",
+      "bidding": "竞价是怎么一个流程？",
+      "patronBonus": "贡献奖励是怎么计算的？",
+      "lastPixel": "奖池是什么？怎么才能拿到？",
+      "referrals": "怎么赚取推荐人奖励？",
+      "threshold": "什么是“游戏激活门槛”？",
+      "credits": "有其他问题？"
+    },
+    "answers": {
+      "howToEarn": "PIXEL MASTER提供多种获利方式：<1>贡献奖励、竞价、奖池和推荐人奖励</1>。每个像素的价格是独立的，起始价格均为 <3><0>{{DEFAULT_PRICE}}</0> <2>{{EOS_CORE_SYMBOL}}</2></3>. 第一次被购买的像素的金额会全部进入“游戏收益”。",
+      "contractProceeds": "<0>{{PATRON_BONUS_PERCENTAGE}}</0>% 作为贡献奖励（贡献奖励机制请看下面）。<2></2><3>{{POT_PERCENTAGE}}</3>% 分到奖池。<5></5><6>{{REFERRER_PERCENTAGE}}</6>% 作为推荐人奖励（如果没有推荐人，这部分将归入奖池）。<8></8><9>{{DEV_TEAM_PERCENTAGE}}</9>% 属于开发团队收益。<11></11><12>{{RAM_PAYMENT_PERCENTAGE}}</12>% 用来补助合约的 RAM 支出。",
+      "bidding": "您可以使用 <1><0>{{PRICE_MULTIPLIER}}</0> 倍</1>的价格去购买别人的像素。像素的上一个拥有者将赚回本金，而对于这额外的 <3>{{PIXEL_PRICE_GROWTH_PERCENTAGE}}</3>% 的差价，<5><0>{{OWNER_PROFIT}}</0>%</5> 是给像素拥有者的利润，另外的 <7><0>{{FEE_PERCENTAGE}}</0>%</7> 是手续费，会流入“游戏收益”中（请看上一条）。",
+      "patronBonus": "您买的每一个像素都会增加您的贡献奖励因子，即使您的像素后面被买走了。贡献奖励会随着游戏的进展而积累，您拥有的贡献奖励因子越多，您就能累积越多的贡献奖励。奖励会记录到您的账户余额，在游戏达成“游戏激活门槛”后，您可以通过提款提出（贡献奖励因子不会因此减少）。",
+      "lastPixel": "在达成“游戏激活门槛”之后，如果在 <1>24 小时内</1>都没有人画像素，当前画布将会被永远保存在区块链上。<3>最后一个买像素的人</3>将会赢得整个奖池。",
+      "referrals": "首先您需要购买过至少 1 个像素，然后您就可以使用推荐链接去邀请好友。您的好友购买的每一个像素都会给您带来额外的收益。收益会记录到您的账户余额，在游戏达成“游戏激活门槛”后，您可以通过提款提出。",
+      "threshold": "游戏激活门槛设置为 <1><0>{{WITHDRAW_PIXELS_THRESHOLD}}</0> 个像素</1>，在 <3>{{WITHDRAW_PIXELS_THRESHOLD}}</3> 个像素售出前，合约的所有金额都将被冻结，这里包含了您的收益和我们的收益。只有在游戏达成激活门槛之后，游戏的提款功能才正式开放，奖池机制才正式开始。",
+      "credits": "查看合约账号: <4><0/></4><5></5>"
+    }
+  },
+  "drawer": "<0>PIXEL MASTER</0>是世界首个在区块链上的协作艺术品。 画像素，赚 FO! <2>查看更多 →</2>",
+  "connectWithScatter": "使用 Ironman 登录",
+  "depositTip": "您有 {{deposit}} 可提余额"
+}

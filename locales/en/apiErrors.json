@@ -1,0 +1,11 @@
+{
+  "unsatisfiedAuthorization": "Please ensure you are using a corresponding private key for {{accountName}}@{{permission}}",
+  "overdrawnBalance": "Transaction failed, you don't have enough {{EOS_CORE_SYMBOL}} to pay",
+  "ramUsageExceeded": "Transaction failed, you don't have enough RAM",
+  "cpuUsageExceeded": "Transaction failed, you don't have enough staked CPU",
+  "netUsageExceeded": "Transaction failed, you don't have enough staked NET",
+  "deadlineExceeded": "Transaction took too long, please retry.",
+  "tooManyDidNotPaint": "Most of your pixels have been bought by others, please retry",
+  "withdrawalQuotaExceeded": "Today's withdrawal quota exceeded! Please try to withdraw again tomorrow.",
+  "unexpectedError": "Transaction failed, unexpected error:"
+}

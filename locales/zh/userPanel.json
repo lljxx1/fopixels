@@ -1,0 +1,20 @@
+{
+  "disconnect": "登出",
+  "fetching": "获取中...",
+  "deposit": "账户余额",
+  "depositTootip": "退款、盈利和贡献奖励",
+  "withdrawButton": {
+    "withdraw": "提                款",
+    "processing": "处理中...",
+    "confirmed": "提  款  成  功!",
+    "tips": {
+      "gameActivationThreshold": "\"游戏激活门槛\": ({{thresholdProgress}} / {{WITHDRAW_PIXELS_THRESHOLD}})",
+      "depositTooSmall": "您的余额少于 0.0001",
+      "quotaExceeded": "已达到本时段的提款安全上限! {{d}}{{h}}{{min}}{{s}} 后 {{WITHDRAW_QUOTA}} {{EOS_CORE_SYMBOL}} 的提款额度将会再次开放, 请耐心等待!"
+    }
+  },
+  "pixelsDrawn": "已画 {{pixelsDrawn}} 个像素",
+  "pixelsDrawnTooltip": "总画的像素, 包括卖的像素",
+  "referralTitle": "Referral Bonus",
+  "referral": "通过邀请好友赚 <1><0>{{EOS_CORE_SYMBOL}}</0></1>！好友每购买一个像素您都会获得佣金。 <3></3>使用下面的链接去邀请:"
+}

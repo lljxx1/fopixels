@@ -1,0 +1,46 @@
+{
+  "tools": {
+    "move": "Move",
+    "paint": {
+      "default": "Paint Pixels",
+      "zoom": "Zoom In to Paint"
+    },
+    "eraser": "Eraser",
+    "uploadImage": {
+      "default": "Upload an Image",
+      "placing": "Place the Image"
+    },
+    "eyedropper": "Eyedropper",
+    "grid": "Grid",
+    "zoomIn": "Zoom In",
+    "zoomOut": "Zoom Out",
+    "saveImage": "Save Canvas Snapshot",
+    "undo": "Undo",
+    "redo": "Redo",
+    "clear": "Clear All Painted Pixels"
+  },
+  "uploadImage": {
+    "guide": {
+      "default": "Drag the image onto the canvas, or use the button below.",
+      "uploaded": "Position your image and click to place it. (Press I or Esc to hide this popup.)"
+    },
+    "noImage": "No Image",
+    "actionButton": {
+      "upload": "Upload File",
+      "replace": "Replace File"
+    },
+    "dithering": {
+      "description": "Improves image quality, useful for photos",
+      "label": "Apply Dithering"
+    },
+    "remove": "Remove"
+  },
+  "info": {
+    "unavailablePrompt": "Sorry, purchase isn't available on your device.",
+    "connecting": "Connecting...",
+    "noScatter": "Connect with <1>Ironman</1> to buy pixels. <3>(See guides)</3>",
+    "price": "Painted <1><0>{{pixelCount}}</0> pixel</1> — Total Price <3><0>{{totalPrice}}</0></3>",
+    "price_plural": "Painted <1><0>{{pixelCount}}</0> pixels</1> — Total Price <3><0>{{totalPrice}}</0></3>",
+    "viewDetail": "(view details)"
+  }
+}

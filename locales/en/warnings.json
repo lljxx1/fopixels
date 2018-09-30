@@ -1,0 +1,13 @@
+{
+  "tooMuchPixels": "Warning! You painted too many pixels!",
+  "imageSize": {
+    "widthExceeded": "Your image's width ({{width}}px) is larger than the width of the canvas ({{CANVAS_SIZE}}px). Please resize your image!",
+    "heightExceeded": "Your image's height ({{height}}px) is larger than the height of the canvas ({{CANVAS_SIZE}}px). Please resize your image!"
+  },
+  "revertedPixels": "Some of your pixels were erased due to network instability. Do you want to paint them again?",
+  "accountMissing": "Missing required account, please try to reconnect scatter account.",
+  "insufficientBalance": "Your painting requires {{totalPrice}}, but you only have {{balance}}.",
+  "beforeClear": "Are you sure you want to clear your painted pixels?",
+  "multipleTransactions": "Your purchase had been split into {{transactionCount}} different orders. Please confirm them one-by-one to complete this painting.",
+  "shortOfCpu": "Your account's CPU usage is over 80%. This transaction could fail due to lack of CPU quota. Do you want to continue?"
+}

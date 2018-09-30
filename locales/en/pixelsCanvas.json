@@ -1,0 +1,7 @@
+{
+  "launchPartners": "Launch Partners",
+  "dropzoneTip": {
+    "accept": "Drop here to paint",
+    "reject": "File type is not supported"
+  }
+}

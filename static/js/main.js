@@ -1948,7 +1948,7 @@
             QUOTA_LIMIT_DURATION: Number("14400"),
             PIXELS_PER_ACTION: Number("16"),
             PIXELS_PER_TRANSACTION: Number("32"),
-            PIXELS_PER_ROW: Number("25"),
+            PIXELS_PER_ROW: Number("50"),
             CACHED_PIXELS_API: "https://tablecache.fopixels.com/chain/get_table_rows",
             PRECISION_BASE: Number("1e16"),
             VERSION: "0.1.16"

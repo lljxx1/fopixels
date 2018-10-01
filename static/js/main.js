@@ -16512,7 +16512,7 @@
                         i18nKey: C ? w ? "lastPainter.won" : "lastPainter.default" : "lastPainter.nonactivated"
                     }, "Last painter: ", i.a.createElement("strong", null, i.a.createElement("a", {
                         target: "_blank",
-                        href: "https://www.myeoskit.com/#/tx/" + E.lastPainter
+                        href: "http://explorer.fibos.rocks/accounts/" + E.lastPainter
                     }, {
                         lastPainter: E.lastPainter
                     })))), " ", "\xa0\xa0\u2022\xa0\xa0", " ", i.a.createElement("span", {
@@ -22683,7 +22683,7 @@
                         className: p.a.name
                     }, i.a.createElement("a", {
                         target: "_blank",
-                        href: "https://www.myeoskit.com/#/tx/" + u[0],
+                        href: "http://explorer.fibos.rocks/accounts/" + u[0],
                         title: r("accountLinkHint")
                     }, u[0])), i.a.createElement("div", {
                         className: p.a.dataContainer
@@ -22708,7 +22708,7 @@
                             className: p.a.name
                         }, i.a.createElement("a", {
                             target: "_blank",
-                            href: "https://www.myeoskit.com/#/tx/" + s,
+                            href: "http://explorer.fibos.rocks/accounts/" + s,
                             title: r("accountLinkHint")
                         }, s)), i.a.createElement("div", {
                             className: p.a.dataContainer
@@ -22813,7 +22813,7 @@
                     }, d.slice(0, -14).concat(" " + F)), i.a.createElement(i.a.Fragment, null, i.a.createElement("div", {
                         className: x.a.identity
                     }, i.a.createElement("a", {
-                        href: "https://www.myeoskit.com/#/tx/" + u.name,
+                        href: "http://explorer.fibos.rocks/accounts/" + u.name,
                         target: "_blank"
                     }, u.name, "@", u.authority), !p && i.a.createElement("div", {
                         "aria-label": a("pixelsDrawnTooltip"),
@@ -23287,17 +23287,17 @@
                         EOS_CORE_SYMBOL: q
                     }, " tokens. This requires", i.a.createElement("a", {
                         className: "link",
-                        href: "#",
+                        href: "http://explorer.fibos.rocks/tools/create",
                         target: "_blank"
-                    }, "an EOS account"), "and", i.a.createElement("a", {
+                    }, "an FIBOS account"), "and", i.a.createElement("a", {
                         className: "link",
                         href: "http://foironman.com/",
                         target: "_blank"
-                    }, "Scatter"), ", or you can use", i.a.createElement("a", {
+                    }, "Ironman"), ", or you can use", i.a.createElement("a", {
                         className: "link",
-                        href: "https://www.mytokenpocket.vip/",
+                        href: "https://51token.im/",
                         target: "_blank"
-                    }, "TokenPocket"), "on mobile .")), i.a.createElement("h4", null, n("faq.questions.howToEarn")), i.a.createElement("p", null, i.a.createElement(s.b, {
+                    }, "51Token"), "on mobile .")), i.a.createElement("h4", null, n("faq.questions.howToEarn")), i.a.createElement("p", null, i.a.createElement(s.b, {
                         i18nKey: "faq.answers.howToEarn"
                     }, "PIXEL MASTER features multiple ways to earn:", i.a.createElement("strong", null, "Patron Bonus, Bidding, Last Pixel Pot, and Referrals"), ". Each pixel starts with a price tag of", i.a.createElement("strong", null, {
                         DEFAULT_PRICE: K
@@ -39092,7 +39092,6 @@
                                     t.sent(), t.label = 3;
                                 case 3:
                                     return [4, new Promise(function(resolve, reject){
-
                                         if(window.ironman){
                                             return resolve(true);
                                         }

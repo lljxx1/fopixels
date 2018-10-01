@@ -8,7 +8,7 @@
   },
   "faq": {
     "title": "PIXEL MASTER 常见问题解答",
-    "intro": "PIXEL MASTER 是世界首个基于区块链技术的协作艺术品。您可以使用工具栏去选择工具并进行绘画，然后使用 <1>{{EOS_CORE_SYMBOL}}</1> 去支付购买像素，前提是您需要有<3>一个 FIBOS 账号</3>和安装了 <5>Ironman</5>",
+    "intro": "PIXEL MASTER 是世界首个基于区块链技术的协作艺术品。您可以使用工具栏去选择工具并进行绘画，然后使用 <1>{{EOS_CORE_SYMBOL}}</1> 去支付购买像素，前提是您需要有<3>一个 FIBOS 账号</3>和安装了 <5>Ironman</5> (在移动设备上您可以使用 <7>51Token</7> )",
     "questions": {
       "howToEarn": "怎么赚 FO?",
       "contractProceeds": "“游戏收益”是怎么计算的？",

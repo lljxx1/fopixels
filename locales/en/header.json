@@ -27,7 +27,7 @@
       "lastPixel": "After the Game Activation threshold is met, if there are no transactions for <1>24 hours</1>, the canvas ends. <3>The last user to purchase a pixel</3> will receive the entire Last Pixel Pot. Once the canvas is complete, it is immortalized into the blockchain.",
       "referrals": "If you're logged in with Scatter and have painted at least one pixel, you'll be able to use your referral link. Any purchases made from this link will earn you a referral bonus that's automatically deposited into your account. Funds from your Account Balance will be available for withdrawal after the Game Activation threshold is met.",
       "threshold": "There is a Game Activation threshold of <1><0>{{WITHDRAW_PIXELS_THRESHOLD}}</0> pixels</1>. Before <3>{{WITHDRAW_PIXELS_THRESHOLD}}</3> pixels are purchased, the Patron Bonus and referrals will still accrue in your account, but withdrawal is locked. After the threshold is met, all players will be able to withdraw funds from their account balance, and the Last Pixel Pot becomes activated.",
-      "credits": "View our account details: <4><0/></4><5></5>"
+      "credits": "View our account details: <4><0/></4><5></5> open source contracts: <7><0/></7>"
     }
   },
   "drawer": "<0>PIXEL MASTER</0> is the world's first collaborative artwork on blockchain. Paint pixels and earn tokens! <2>Learn more →</2>",

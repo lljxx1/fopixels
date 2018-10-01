@@ -39092,16 +39092,28 @@
                                     t.sent(), t.label = 3;
                                 case 3:
                                     return [4, new Promise(function(resolve, reject){
-                                        if(window.ironman){
-                                            return resolve(true);
-                                        }
+                                        var restured = false, timeout = false;
                                         document.addEventListener('ironmanLoaded', function(){
                                             console.log('ironmanLoaded');
-                                            resolve(true);
-                                        })
+                                            if(!restured) resolve(true);
+                                            restured = false;
+                                        });
+
+                                        (function waitIronmanLoop(){
+                                            if(timeout) return;
+                                            if(window.ironman){
+                                                restured = true;
+                                                console.log('waitIronmanLoop ready');
+                                                return resolve(true);;
+                                            }
+                                            setTimeout(waitIronmanLoop, 60);
+                                        })();
+
                                         setTimeout(function(){
+                                            if(restured) return;
+                                            timeout = true;
                                             reject('timeout')
-                                        }, 30 * 1000);
+                                        }, 60 * 1000);
                                     })];
                                 case 4:
                                     return t.sent() ? (this.onReady(window.ironman), [3, 6]) : (this.detectionEnd(), [2]);

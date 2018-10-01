@@ -39101,7 +39101,7 @@
                                         })
                                         setTimeout(function(){
                                             reject('timeout')
-                                        }, 6 * 1000);
+                                        }, 30 * 1000);
                                     })];
                                 case 4:
                                     return t.sent() ? (this.onReady(window.ironman), [3, 6]) : (this.detectionEnd(), [2]);

@@ -1949,7 +1949,7 @@
             PIXELS_PER_ACTION: Number("16"),
             PIXELS_PER_TRANSACTION: Number("32"),
             PIXELS_PER_ROW: Number("50"),
-            CACHED_PIXELS_API: "https://tablecache.fopixels.com/chain/get_table_rows",
+            CACHED_PIXELS_API: "https://pixelcache.fibos.rocks/get_table_rows",
             PRECISION_BASE: Number("1e16"),
             VERSION: "0.1.16"
         }
@@ -2896,8 +2896,8 @@
                             // h.label = 5;
                             switch (h.label) {
                                 case 0:
-                                    // return [4, fetch(this.config.CACHED_PIXELS_API)];
-                                    return [4, this.eos.getTableRows({
+                                    return [4, fetch(this.config.CACHED_PIXELS_API)];
+                                    /* return [4, this.eos.getTableRows({
                                         json: !0,
                                         code: this.contractName,
                                         scope: e.toString(),
@@ -2905,14 +2905,14 @@
                                         lower_bound: t,
                                         upper_bound: -1,
                                         limit: 1e6
-                                    })];
+                                    })]; */
                                 case 1:
                                     return u = h.sent(), [3, 3];
                                 case 2:
                                     u = null, h.label = 3;
                                 case 3:
-                                    // return [4, u.json()];
-                                    return [4, u];
+                                     return [4, u.json()];
+                                    //return [4, u];
                                 case 4:
                                     return g = h.sent(), [3, 7];
                                 case 5:
@@ -2980,8 +2980,8 @@
                         return h(this, function (h) {
                             switch (h.label) {
                                 case 0:
-                                    // return [4, fetch(this.config.CACHED_PIXELS_API)];
-                                    return [4, this.eos.getTableRows({
+                                    return [4, fetch(this.config.CACHED_PIXELS_API)];
+                                    /* return [4, this.eos.getTableRows({
                                         json: !0,
                                         code: this.contractName,
                                         scope: e.toString(),
@@ -2989,14 +2989,14 @@
                                         lower_bound: r,
                                         upper_bound: -1,
                                         limit: 1e6
-                                    })];
+                                    })]; */
                                 case 1:
                                     return l = h.sent(), [3, 3];
                                 case 2:
                                     l = null, h.label = 3;
                                 case 3:
-                                    // return [4, l.json()];
-                                    return [4, l];
+                                    return [4, l.json()];
+                                    //return [4, l];
                                 case 4:
                                     return v = h.sent(), [3, 7];
                                 case 5:

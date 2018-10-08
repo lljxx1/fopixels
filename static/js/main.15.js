@@ -1943,7 +1943,7 @@
             REFERRER_PERCENTAGE: Number("8"),
             DEV_TEAM_PERCENTAGE: Number("20"),
             RAM_PAYMENT_PERCENTAGE: Number("7"),
-            WITHDRAW_PIXELS_THRESHOLD: Number("50000"),
+            WITHDRAW_PIXELS_THRESHOLD: Number("30000"),
             WITHDRAW_QUOTA: Number("10000000"),
             QUOTA_LIMIT_DURATION: Number("14400"),
             PIXELS_PER_ACTION: Number("16"),
